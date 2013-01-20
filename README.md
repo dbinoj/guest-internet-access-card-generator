@@ -10,3 +10,9 @@ Customize options
 3. Change PG_LAYOUT to the layout of the card. JPG of layout in A4 with 9 cards.
 4. Change PG_LAYOUT_X, PG_LAYOUT_Y according to the PG_LAYOUT file's dimensions.
 5. Visit index.php and print the cards!
+
+
+Note
+----
+
+Can be modded to be used as bulk ID card generator, etc!
