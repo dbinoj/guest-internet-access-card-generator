@@ -73,5 +73,4 @@ $pdf->Text(2850, 2195, $data[$count++][1]);
 
 $pdf->Output();  
 
-
-?>
+// PHP tag not closed on purpose.
