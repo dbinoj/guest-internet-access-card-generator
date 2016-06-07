@@ -1,5 +1,5 @@
 <?php
-require('./fpdf.php');
+require(realpath(dirname(__FILE__)) . '/fpdf.php');
 define('USERS_FILE', 'users.csv');
 define('PG_LAYOUT', './guest-net-card-page-001.jpg');
 define('PG_LAYOUT_X','3506');
